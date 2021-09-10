@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TrashLevelStreamer",
+	"Description": "",
+	"Category": "Game",
+	"CreatedBy": "Christoph Groll",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TrashLevelStreamer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
